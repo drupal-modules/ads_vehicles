@@ -1,4 +1,4 @@
-ads_vehicles
-============
+ads_animals
+===========
 
-Provides common Vehicles features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
